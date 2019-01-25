@@ -1,0 +1,14 @@
+.card {
+    margin: 15px 0;
+    user-select: none;
+    cursor: move;
+}
+
+.body {
+
+}
+
+.description {
+    overflow: hidden;
+    height: 70px;
+}
